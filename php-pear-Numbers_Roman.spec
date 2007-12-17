@@ -17,7 +17,6 @@ Requires:	php-pear
 Requires:	php-gd
 BuildArch:	noarch
 BuildRequires:	dos2unix
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 A class for converting to and from Roman numerals.
