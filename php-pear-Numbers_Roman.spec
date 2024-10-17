@@ -8,7 +8,7 @@ Release:	9
 Summary:	Converting to and from Roman numerals
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Numbers_Roman/
+URL:		https://pear.php.net/package/Numbers_Roman/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
